@@ -80,6 +80,8 @@ section .container {
   margin: 100px;
 }
 
+
+
 section h1 {
   font-size: 60px;
 }
@@ -96,7 +98,8 @@ section h2 {
 
 
 section .cards {
-  display: flex;
+  width: 100%;
+  position: relative;
 }
 
 section .cards .text-card {
